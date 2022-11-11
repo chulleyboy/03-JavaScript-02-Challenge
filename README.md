@@ -6,7 +6,7 @@ This is the senction 3 challenge which features a webpage for generating a rando
 
 ## Image
 
-./deploy_screenshot.png
+![](./deploy_screenshot.png)
 
 ## Usage
 
