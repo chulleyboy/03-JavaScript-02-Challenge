@@ -12,9 +12,9 @@ N/A
 
 Open index.html in your browser, then click generate password and follow the prompts.
 
-## Credits
+## Website Link
 
-N/A
+https://chulleyboy.github.io/03-JavaScript-02-Challenge/
 
 ## License
 
