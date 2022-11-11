@@ -4,9 +4,9 @@
 
 This is the senction 3 challenge which features a webpage for generating a random password based on user parameters.
 
-## Installation
+## Image
 
-N/A
+./deploy screenshot.png
 
 ## Usage
 
