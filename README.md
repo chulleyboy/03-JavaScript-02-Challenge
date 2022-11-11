@@ -1,2 +1,23 @@
-# 03-JavaScript-02-Challenge
-Module 3 challenge, password generator
+# <Section 3 Challenge>
+
+## Description
+
+This is the senction 3 challenge which features a webpage for generating a random password based on user parameters.
+
+## Installation
+
+N/A
+
+## Usage
+
+Open index.html in your browser, then click generate password and follow the prompts.
+
+## Credits
+
+N/A
+
+## License
+
+MIT Liscense, view the license in the repository.
+
+---
